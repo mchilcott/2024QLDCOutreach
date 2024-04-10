@@ -1,0 +1,123 @@
+
+* Quantum technologies
+  - The quantum in existing technologies
+  - Quantum enhanced sensing
+  - Quantum computing/cryptography
+  - What other countries are doing to incubate quantum technologies?
+* What is quantum?
+  - Atoms and Light
+    - Atomic spectra
+    - Lasers
+  - Electronics
+    - Transistors, etc
+  - Blackbody radiation
+
+  - GPS Atomic clocks
+
+  - Wave/particle duality
+  - Superposition and Entanglment
+  - Quantum mechanics is the most thoroughly tested theory in human history
+
+  - Probably don't want to deal with measurement, except perhaps stern gerlag
+
+* Future Sensors
+  - Aircraft Navigation
+  - Quantum gravimeters
+  - Quantum accelerometers
+
+  - Rydberg atomic sensors
+ 
+* Quantum computers
+  - Quantum advantage
+  - 
+    
+* Talk overview
+  - Start with a Hook
+    Back in time before quantum
+  - A little quantum mechanics
+    - Have to get small/cold
+    - Photoelectric effect
+    - Atomic spectra
+    - Double slit interference
+  - Basic quantum mechanics
+    - Discrete states
+    - Superposition
+    - Measurement
+    - Entanglement
+    - Schrodingers cat
+  - Current Quantum technologies in use
+    - Modern electronics
+    - Chemistry
+    - GPS
+  - Computing
+    - Analogy to IC: complex thing with lots of wires to interface with the rest of the world.
+    - Something like computing different superpositions at once....
+    - Noise
+    - 
+  - Sensing
+    - Atomic sensors
+      - Atomic Clocks - GPS
+      - Intertial - Aircraft IMU
+      - Magnetic/EM field sensing
+  - Who am I
+    - Cold Atoms
+
+* Revised
+  - 
+
+  - Throwing around magnets (Stern-Gerlag)
+    - Start with sticking, compassing
+    - Throw it so it doesn't: deflection
+    - Throw it upside down: Opposite deflection
+    - Throw it straight: Basically no deflection
+    - Throw it randomly: Everywhere
+
+    - Silver atoms: Also magnets
+      - Only get up or down
+      - Quantized!!!!
+    - Does physics break if you turn your head sideways?
+      - Of course not. Up/Down only special because this is the way we
+        decided to measure
+      - Actually a superposition
+    - Cascading S/G machines
+      - To put some examples of measurement
+    - You can start with a superposition, but once you make a
+      measurement, that's what you have
+    - You can also have superpositions over different particles - entanglement
+      - Very weird: measuring one seems to have an effect the other
+	- "Spooky action at a distance"
+
+  - Light
+    - Newton: particles, Hygens: Wave
+    - Double slit experiment
+      - Wave superposition
+      - Light is wave
+      - White light: colour is wavelength
+    - Photoelectric effect
+      - Light is particle
+      - More light intensity, more electrons
+      - Wavelengt/colour is energy in a photon, one photon to one electron
+    - Double slits:
+      - You can do it with a single photon. (Though if you look at which slit it goes through, it only goes through one)
+      - You can do it with electrons---they're waves too
+      - You can do it with molecules---everything is a wave. In general, more massive, shorter wavelength and therefore harder to notice.
+      - Everything is kinda both, and you'll see wave/particle like behaviour if you look for it.
+
+  Quantum Technologies Today:
+  - Lasers
+  - GPS/Atomic clocks
+  - MRI
+  - Transistor
+  - "Quantum 1.0"
+
+  Quantum Technologies Tomorrow:
+  - Measurement: Indentical particles, and short wavelengths
+    - Electric field sensing
+    - Magnetic field sensing
+    - Inertial nagigation in planes
+  - Quantum 2.0 - Entanglement + superpositions
+  - Quantum computing
+    - Solves some hard problems efficiently
+    - Cryptography: also can tell if someone is listening in
+  - Simulation
+    - Simulating a Quantum is hard, so make a quantum system that looks like a quantum system
