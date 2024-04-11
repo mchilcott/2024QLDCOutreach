@@ -7,42 +7,42 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="190.28592mm"
+   height="110.62992mm"
+   viewBox="0 0 190.28592 110.62992"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="MagnetThrow.svg">
+   sodipodi:docname="MagnetThrowUpPre.svg">
   <defs
      id="defs2">
     <marker
-       style="overflow:visible;"
+       style="overflow:visible"
        id="marker1434"
-       refX="0.0"
-       refY="0.0"
+       refX="0"
+       refY="0"
        orient="auto"
        inkscape:stockid="Arrow1Mend"
        inkscape:isstock="true">
       <path
-         transform="scale(0.4) rotate(180) translate(10,0)"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path1432" />
     </marker>
     <marker
-       style="overflow:visible;"
+       style="overflow:visible"
        id="marker1308"
-       refX="0.0"
-       refY="0.0"
+       refX="0"
+       refY="0"
        orient="auto"
        inkscape:stockid="Arrow1Mend"
        inkscape:isstock="true"
        inkscape:collect="always">
       <path
-         transform="scale(0.4) rotate(180) translate(10,0)"
-         style="fill-rule:evenodd;stroke:#babdb6;stroke-width:1pt;stroke-opacity:1;fill:#babdb6;fill-opacity:1"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#babdb6;fill-opacity:1;fill-rule:evenodd;stroke:#babdb6;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path1306" />
     </marker>
   </defs>
@@ -53,9 +53,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.2694886"
-     inkscape:cx="368.75341"
-     inkscape:cy="431.3743"
+     inkscape:zoom="1.25101"
+     inkscape:cx="412.97043"
+     inkscape:cy="205.54725"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -64,7 +64,11 @@
      inkscape:window-height="835"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -80,47 +84,8 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
-    <g
-       id="g1254"
-       transform="rotate(-20.782596,218.48626,-77.430477)">
-      <rect
-         style="fill:#ef2929;stroke:none;stroke-width:0.0733184;stroke-linecap:square;stroke-linejoin:round;paint-order:stroke markers fill"
-         id="rect1242"
-         width="4.1792769"
-         height="8.3585539"
-         x="55.852692"
-         y="47.657204" />
-      <rect
-         style="fill:#729fcf;stroke:none;stroke-width:0.0733184;stroke-linecap:square;stroke-linejoin:round;paint-order:stroke markers fill"
-         id="rect1244"
-         width="4.1792769"
-         height="8.3585539"
-         x="55.852692"
-         y="56.015759" />
-      <text
-         xml:space="preserve"
-         style="font-size:2.34251px;line-height:1.25;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#a40000;stroke-width:0.0732033"
-         x="57.904785"
-         y="50.739815"
-         id="text1248"><tspan
-           sodipodi:role="line"
-           id="tspan1246"
-           x="57.904785"
-           y="50.739815"
-           style="fill:#a40000;stroke-width:0.0732033">N</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:2.34251px;line-height:1.25;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#204a87;stroke-width:0.0732033"
-         x="57.946396"
-         y="63.180283"
-         id="text1252"><tspan
-           sodipodi:role="line"
-           id="tspan1250"
-           x="57.946396"
-           y="63.180283"
-           style="fill:#204a87;stroke-width:0.0732033">S</tspan></text>
-    </g>
+     id="layer1"
+     transform="translate(-13.429112,-78.695135)">
     <g
        id="g1274"
        transform="translate(-10.071838,76.078431)">
@@ -241,9 +206,5 @@
            sodipodi:nodetypes="csc" />
       </g>
     </g>
-    <path
-       style="fill:none;stroke:#d3d7cf;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 54.916355,132.13405 116.75029,112.8537"
-       id="path954" />
   </g>
 </svg>

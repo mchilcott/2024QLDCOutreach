@@ -9,13 +9,13 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="115.77003mm"
-   height="59.747906mm"
-   viewBox="0 0 115.77003 59.747906"
+   width="112.41606mm"
+   height="59.465408mm"
+   viewBox="0 0 112.41606 59.465409"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="photoelectric.svg.svg">
+   sodipodi:docname="photoelectric-intensity.svg">
   <defs
      id="defs2">
     <marker
@@ -446,8 +446,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.39594902"
-     inkscape:cx="243.44176"
-     inkscape:cy="362.48098"
+     inkscape:cx="234.56339"
+     inkscape:cy="-18.149444"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -477,7 +477,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-50.147276,-21.805964)">
+     transform="translate(-52.496346,-122.51443)">
     <rect
        style="fill:#000000;stroke:#ffffff;stroke-width:0.262981;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:0.762611;paint-order:stroke markers fill"
        id="rect841"
